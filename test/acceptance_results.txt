@@ -1,0 +1,10 @@
+[PASS] counts: 6 puzzles at 8x8 ([5, 5, 5, 4, 4, 5] givens)
+[PASS] regions partition the grid and every region is connected 
+[PASS] every given crown sits on the printed solution 
+[PASS] every puzzle: exactly one solution (independent permutation recount), equal to printed solution 
+[PASS] tamper: a moved given crown breaks the proof 
+[PASS] PDF 612x792pt, 11 pages (11)
+[PASS] 6-puzzle book builds in under 180s (0.2s)
+[PASS] deterministic for fixed seed 
+
+8/8 PASS
